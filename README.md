@@ -1,6 +1,8 @@
 # Images-Face-Mask-Detection-System-Project
 Images Face Mask Detection System Project Code, Document And Video Tutorial
 
+![Face mAsk (1)](https://github.com/user-attachments/assets/356aa9ac-0ee0-4a3e-b543-37240fd214f4)
+
 ## Youtube link: https://youtu.be/7hLboIeBeTk?si=NfLcrvNO3gLB8GZ8
 
 ## Abstract
